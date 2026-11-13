@@ -11,8 +11,6 @@ npm install
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
-
 ### Demo manager
 
 - Email: `manager@queueflow.app`
