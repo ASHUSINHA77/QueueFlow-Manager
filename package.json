@@ -1,0 +1,9 @@
+{
+  "name": "queueflow-manager",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple full-stack queue management application",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
